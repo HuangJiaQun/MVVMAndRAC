@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B7D6B5A4-6ABA-4178-94EF-609F92A10CE4"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "39E5D256-7CBB-4868-826B-7F6693703234"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7DE06075-9370-460F-8281-F022B0151433"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMAndRAC/ReactiveCocoa + MVVM /RequestViewModel.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "-initialBind"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7DE06075-9370-460F-8281-F022B0151433 - 73babef891673fa0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__31-[RequestViewModel initialBind]_block_invoke_2"
+                  moduleName = "MVVMAndRAC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huangjiaqun/Desktop/iOS%E5%AD%A6%E4%B9%A0/MVVMAndRAC/MVVMAndRAC/ReactiveCocoa%20+%20MVVM%20/RequestViewModel.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "580">
+               </Location>
+               <Location
+                  uuid = "7DE06075-9370-460F-8281-F022B0151433 - 73babef8916b3f86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__31-[RequestViewModel initialBind]_block_invoke_3"
+                  moduleName = "MVVMAndRAC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huangjiaqun/Desktop/iOS%E5%AD%A6%E4%B9%A0/MVVMAndRAC/MVVMAndRAC/ReactiveCocoa%20+%20MVVM%20/RequestViewModel.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9022FE82-5676-4130-A2E7-E5A23B96B63A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMAndRAC/ReactiveCocoa + MVVM /RequestViewModel.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "-initialBind"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E84DABEC-5505-4F54-9710-8D8BE30EF18B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMAndRAC/ReactiveCocoa + MVVM /RequestViewModel.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "-initialBind"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
